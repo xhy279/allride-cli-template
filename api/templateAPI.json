@@ -1,9 +1,9 @@
 [{
   "name": "umi模板",
   "npmName": "allride-cli-template-react-umi",
-  "version": "^1.0.0"
+  "version": "1.0.0"
 }, {
   "name": "vue管理后台模板",
   "npmName": "allride-cli-template-vue-element-admin",
-  "version": "^1.0.0"
+  "version": "1.0.0"
 }]
