@@ -1,7 +1,7 @@
 {
-  "name": "allride-cli-template-umi",
+  "name": "allride-cli-template-react-umi",
   "version": "1.0.0",
-  "description": "allride CLI template",
+  "description": "Allride CLI template",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
