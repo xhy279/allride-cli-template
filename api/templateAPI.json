@@ -1,11 +1,18 @@
-[{
-  "name": "umi模板",
-  "npmName": "allride-cli-template-react-umi",
-  "version": "1.0.0",
-  "type": "custom"
-}, {
-  "name": "vue管理后台模板",
-  "npmName": "allride-cli-template-vue-element-admin",
-  "version": "1.0.0",
-  "type": "normal"
-}]
+[
+  {
+    "name": "umi模板",
+    "npmName": "allride-cli-template-react-umi",
+    "version": "1.0.0",
+    "type": "custom",
+    "installCommand": "npm install",
+    "startCommand": "npm start"
+  }, 
+  {
+    "name": "vue管理后台模板",
+    "npmName": "allride-cli-template-vue-element-admin",
+    "version": "1.0.0",
+    "type": "normal",
+    "installCommand": "npm install",
+    "startCommand": "npm run dev"
+  }
+]
