@@ -12,7 +12,7 @@
     "npmName": "allride-cli-template-vue-element-admin",
     "version": "1.0.0",
     "type": "normal",
-    "installCommand": "npm install",
+    "installCommand": "npm install --registry=https://registry.npm.taobao.org",
     "startCommand": "npm run dev"
   }
 ]
