@@ -3,7 +3,7 @@
     "name": "umi模板",
     "npmName": "allride-cli-template-react-umi",
     "version": "1.0.0",
-    "type": "custom",
+    "type": "normal",
     "installCommand": "npm install",
     "startCommand": "npm start"
   }, 
