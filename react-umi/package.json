@@ -1,6 +1,6 @@
 {
   "name": "allride-cli-template-react-umi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Allride CLI template",
   "main": "index.js",
   "scripts": {
